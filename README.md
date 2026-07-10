@@ -2,6 +2,10 @@
 
 A responsive, single-page portfolio website designed to showcase my academic and professional journey as a Senior Artificial Intelligence student. This site highlights my core competencies in machine learning, anomaly detection, and natural language processing, as well as my recent projects and certifications.
 
+## 📸 Preview
+
+![Desktop View](./images/website-preview.png)
+
 ## 🚀 Features
 
 *   **Responsive Design:** Fully responsive layout built with CSS Grid and Flexbox, ensuring a seamless experience across desktop and mobile devices.
