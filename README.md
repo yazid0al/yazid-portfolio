@@ -1,5 +1,7 @@
 # Yazid Alsaidi - Personal Portfolio
 
+🔗 **Live Demo:** [Click here to view the website](https://yaz.freehosting.dev)
+
 A responsive, single-page portfolio website designed to showcase my academic and professional journey as a Senior Artificial Intelligence student. This site highlights my core competencies in machine learning, anomaly detection, and natural language processing, as well as my recent projects and certifications.
 
 ## 📸 Preview
